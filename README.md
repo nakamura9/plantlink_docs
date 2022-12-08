@@ -41,3 +41,11 @@ Plantlink is a suite of tools for planned maintenance and breakdown maintenance.
 `python manage.py runserver`
 2. Launch the application from the browser at the address localhost:8000/login
 3. 
+
+## Next Steps
+[Getting Started](https://nakamura9.github.io/plantlink_docs/Getting Started)
+[Inventory](https://nakamura9.github.io/plantlink_docs/Inventory)
+[Maintenance](https://nakamura9.github.io/plantlink_docs/Maintenance)
+[Planning](https://nakamura9.github.io/plantlink_docs/Planning)
+[Reports](https://nakamura9.github.io/plantlink_docs/Reports)
+[Inbox](https://nakamura9.github.io/plantlink_docs/Inbox)

@@ -33,3 +33,5 @@ A user may request spares for a work order or preventative task. In the request,
 The users then interact with a table to provide the item, units and quantities required for the job.
 
 On submission, the quantities of items are updated in the system and the document is no longer available to edit.
+
+[Home](https://nakamura9.github.io/plantlink_docs/Navigation)

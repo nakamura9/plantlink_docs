@@ -1,0 +1,6 @@
+[Getting Started](https://nakamura9.github.io/plantlink_docs/Getting Started)
+[Inventory](https://nakamura9.github.io/plantlink_docs/Inventory)
+[Maintenance](https://nakamura9.github.io/plantlink_docs/Maintenance)
+[Planning](https://nakamura9.github.io/plantlink_docs/Planning)
+[Reports](https://nakamura9.github.io/plantlink_docs/Reports)
+[Inbox](https://nakamura9.github.io/plantlink_docs/Inbox)

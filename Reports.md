@@ -59,3 +59,5 @@ Finally the report has 3 charts each of which is a duration vs count listing of 
 1. Machines,
 2. Sections
 3. And Components
+
+[Home](https://nakamura9.github.io/plantlink_docs/Navigation)

@@ -1,4 +1,4 @@
-#Inventory 
+# Inventory 
 
 ### Data Imports
 
@@ -43,3 +43,5 @@ Items are spares objects recorded in the system that link up with components and
 ### Plants 
 
 Plants exist to divide related machines into groups, for instance main plant vs sheet plant.
+
+[Home](https://nakamura9.github.io/plantlink_docs/Navigation)

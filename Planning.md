@@ -31,3 +31,5 @@ Within a run schedule are orders. An order can be recorded in the system and lis
 ### Planned Maintenance
 
 The calendar also tracks planned maintenance events, namely preventative tasks and checklists. All such tasks are rendered on the calendar view according to their schedules
+
+[Home](https://nakamura9.github.io/plantlink_docs/Navigation)
